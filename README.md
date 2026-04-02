@@ -52,16 +52,15 @@ DirectX 11 と Assimp を統合し、OBJ / FBX / PMX / GLB など多数のフォ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=routersys&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=routersys&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&langs_count=6" width="40%" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=routersys&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff&hide_border=true" width="95%" />
 
 </div>
+
+---
+
+<a href="https://justuuid.pages.dev/u/8dc76273-12e4-40cf-9c8f-2c83bb58276f" target="_blank" rel="noopener noreferrer">
+  <img src="https://justuuid.pages.dev/api/badge/u/8dc76273-12e4-40cf-9c8f-2c83bb58276f.svg" alt="UUID Badge" />
+</a>
 
 ---
 
