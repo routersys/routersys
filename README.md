@@ -4,6 +4,8 @@
 
 </div>
 
+[![技術者倫理|遵守済み](https://gijutsusharin.li/badge.svg)](https://gijutsusharin.li)
+
 ---
 
 ## プロフィール
