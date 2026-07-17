@@ -1,50 +1,30 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1c2333&height=180&section=header&text=routersys&fontSize=64&fontColor=cc99cb&fontAlignY=20&desc=YMM4%20Plugin%20Developer&descAlignY=50&descSize=18&descColor=8b949e&animation=fadeIn" width="100%" />
-
+<img src="assets/header.svg" alt="routersys — YMM4 Plugin Developer" width="100%" />
 </div>
 
-[![技術者倫理|遵守済み](https://gijutsusharin.li/badge.svg)](https://gijutsusharin.li)
+---
+
+## 概要
+
+主に YukkuriMovieMaker4 向けのプラグインを開発しています。
+DirectX 11 と C#、HLSL を用いた映像制作ツールの拡張が主な活動です。
+公開しているプラグインの詳細は [ymm4.routersys.com](https://ymm4.routersys.com/) をご覧ください。
+
+[![技術者倫理｜遵守済み](https://gijutsusharin.li/badge.svg)](https://gijutsusharin.li)
 
 ---
 
-## プロフィール
-
-主に YukkuriMovieMaker4（YMM4）向けのプラグインを開発しています。
-DirectX 11 / C# / HLSL を使った映像制作ツールの拡張が主な活動です。
-公開プラグインの詳細は [ymm4.routersys.com](https://ymm4.routersys.com/) をご覧ください。
-
----
-
-## 主要プラグイン
-
-### [YMM4-ObjLoader](https://github.com/routersys/YMM4-ObjLoader)
-
-YMM4 上で3Dモデルを表示・操作するための高性能プラグインです。
-DirectX 11 と Assimp を統合し、OBJ / FBX / PMX / GLB など多数のフォーマットに対応しています。
-
-**主な特徴**
-
-- メッシュ単位でパーツを別レイヤーに分解し、独立したアニメーションを付けられる階層レイヤーシステム
-- モデリングソフトへの書き出し不要なピボット（中心点）調整機能
-- トゥーンシェーダー / 輪郭線 / リムライト / ポストエフェクト
-- 専用カメラウィンドウとグラフエディタによるキーフレーム制御
-- 動作要件：Windows 10/11（64bit）、DirectX 11 対応 GPU
-
----
-
-## 技術スタック
+## 技術
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,lua,java,visualstudio,git,github,windows&theme=dark" />
 
-<br/><br/>
+<br /><br />
 
-<img src="https://img.shields.io/badge/C%23-.NET_10-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/HLSL-DirectX_11-0078D4?style=flat-square&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Assimp-Open_Asset_Import-555?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/YMM4-Plugin_Dev-58a6ff?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/YMM4-PLUGIN_DEV-c73e2d?style=flat-square&labelColor=121110" />
+<img src="https://img.shields.io/badge/HLSL-DIRECTX_11-46413a?style=flat-square&labelColor=121110" />
+<img src="https://img.shields.io/badge/ASSIMP-OPEN_ASSET_IMPORT-46413a?style=flat-square&labelColor=121110" />
 
 </div>
 
@@ -53,16 +33,8 @@ DirectX 11 と Assimp を統合し、OBJ / FBX / PMX / GLB など多数のフォ
 ## 統計
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=routersys&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&area_color=58a6ff&hide_border=true" width="95%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=routersys&bg_color=121110&color=e9e4d8&line=c73e2d&point=8f887a&area=true&area_color=c73e2d&hide_border=true" width="95%" />
 </div>
-
----
-
-<a href="https://justuuid.pages.dev/u/8dc76273-12e4-40cf-9c8f-2c83bb58276f" target="_blank" rel="noopener noreferrer">
-  <img src="https://justuuid.pages.dev/api/badge/u/8dc76273-12e4-40cf-9c8f-2c83bb58276f.svg" alt="UUID Badge" />
-</a>
 
 ---
 
@@ -71,17 +43,21 @@ DirectX 11 と Assimp を統合し、OBJ / FBX / PMX / GLB など多数のフォ
 <div align="center">
 
 <a href="https://ymm4.routersys.com/">
-  <img src="https://img.shields.io/badge/プラグインサイト-ymm4.routersys.com-58a6ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLUGINS-ymm4.routersys.com-c73e2d?style=for-the-badge&labelColor=121110" />
+</a>
+&nbsp;
+<a href="https://routersys.booth.pm/">
+  <img src="https://img.shields.io/badge/BOOTH-routersys-46413a?style=for-the-badge&labelColor=121110" />
 </a>
 &nbsp;
 <a href="https://x.com/routersys">
-  <img src="https://img.shields.io/badge/X_(Twitter)-@routersys-000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-@routersys-46413a?style=for-the-badge&logo=x&logoColor=e9e4d8&labelColor=121110" />
 </a>
 
-</div>
+<br /><br />
 
-<br/>
-
-<div align="center">
+<a href="https://justuuid.pages.dev/u/8dc76273-12e4-40cf-9c8f-2c83bb58276f" target="_blank" rel="noopener noreferrer">
+  <img src="https://justuuid.pages.dev/api/badge/u/8dc76273-12e4-40cf-9c8f-2c83bb58276f.svg" alt="UUID Badge" />
+</a>
 
 </div>
