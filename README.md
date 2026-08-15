@@ -18,7 +18,7 @@ DirectX 11 と C#、HLSL を用いた映像制作ツールの拡張が主な活�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,lua,java,visualstudio,git,github,windows,html,css,js,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,lua,java,python,visualstudio,git,github,windows,html,css,js,powershell&theme=dark" />
 
 <br /><br />
 
